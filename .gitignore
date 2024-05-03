@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+.idx
+# Databases
+*.db
+*.sqlite3
+
+# Configuration files
+config.json
+.venv
+
+# Build artifacts
+build/
+dist/
+
+# Temporary files
+tmp/
+cache/
+
+# IDE specific files
+.idea/
+.vscode/
