@@ -1,14 +1,14 @@
 # Logs
 logs
 *.log
-.idx
+.idx/
 # Databases
 *.db
 *.sqlite3
 
 # Configuration files
 config.json
-.venv
+.venv/
 
 # Build artifacts
 build/
